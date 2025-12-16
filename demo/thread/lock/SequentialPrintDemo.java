@@ -1,4 +1,4 @@
-package demo.thread;
+package demo.thread.lock;
 
 public class SequentialPrintDemo {
     public static void main(String[] args) throws InterruptedException {
