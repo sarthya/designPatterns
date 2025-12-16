@@ -1,4 +1,4 @@
-package pattern.proxy;
+package demo.pattern.proxy;
 
 import java.util.Objects;
 

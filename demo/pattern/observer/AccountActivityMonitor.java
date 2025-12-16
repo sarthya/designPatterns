@@ -1,4 +1,4 @@
-package pattern.observer;
+package demo.pattern.observer;
 
 // --- 1. The Observer Interface (AccountActivityMonitor) ---
 interface AccountActivityMonitor {

@@ -1,4 +1,4 @@
-package pattern.observer;
+package demo.pattern.observer;
 
 // --- 2. The Subject Interface (ObservableAccount) ---
 interface ObservableAccount {

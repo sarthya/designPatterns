@@ -1,4 +1,4 @@
-package pattern.observer;
+package demo.pattern.observer;
 
 // --- 4. Concrete Observer 1 (Email Notification Service) ---
 class EmailNotificationService implements AccountActivityMonitor {

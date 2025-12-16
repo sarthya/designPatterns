@@ -1,4 +1,4 @@
-package pattern.observer;
+package demo.pattern.observer;
 
 // --- 6. The Demo Application ---
 public class BrokerageAppDemo {

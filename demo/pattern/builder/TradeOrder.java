@@ -1,4 +1,4 @@
-package pattern.builder;
+package demo.pattern.builder;
 
 public class TradeOrder {
     // -------------------------------------------------------------------

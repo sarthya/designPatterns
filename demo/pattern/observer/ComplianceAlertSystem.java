@@ -1,4 +1,4 @@
-package pattern.observer;
+package demo.pattern.observer;
 
 // --- 5. Concrete Observer 2 (Compliance Alert System) ---
 class ComplianceAlertSystem implements AccountActivityMonitor {
